@@ -1,0 +1,10 @@
+C:\Users\Данила\Desktop\Intelligence cards\Intelligence cards\bin\Debug\Intelligence cards.exe.config
+C:\Users\Данила\Desktop\Intelligence cards\Intelligence cards\bin\Debug\Intelligence cards.exe
+C:\Users\Данила\Desktop\Intelligence cards\Intelligence cards\bin\Debug\Intelligence cards.pdb
+C:\Users\Данила\Desktop\Intelligence cards\Intelligence cards\obj\Debug\Intelligence cards.csprojAssemblyReference.cache
+C:\Users\Данила\Desktop\Intelligence cards\Intelligence cards\obj\Debug\Intelligence_cards.Form1.resources
+C:\Users\Данила\Desktop\Intelligence cards\Intelligence cards\obj\Debug\Intelligence_cards.Properties.Resources.resources
+C:\Users\Данила\Desktop\Intelligence cards\Intelligence cards\obj\Debug\Intelligence cards.csproj.GenerateResource.cache
+C:\Users\Данила\Desktop\Intelligence cards\Intelligence cards\obj\Debug\Intelligence cards.csproj.CoreCompileInputs.cache
+C:\Users\Данила\Desktop\Intelligence cards\Intelligence cards\obj\Debug\Intelligence cards.exe
+C:\Users\Данила\Desktop\Intelligence cards\Intelligence cards\obj\Debug\Intelligence cards.pdb
